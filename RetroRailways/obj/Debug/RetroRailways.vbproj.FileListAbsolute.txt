@@ -1,0 +1,13 @@
+C:\Users\Elvis\Documents\VSFIUNEW\RetroRailways\RetroRailways\bin\Debug\RetroRailways.exe.config
+C:\Users\Elvis\Documents\VSFIUNEW\RetroRailways\RetroRailways\bin\Debug\RetroRailways.exe
+C:\Users\Elvis\Documents\VSFIUNEW\RetroRailways\RetroRailways\bin\Debug\RetroRailways.pdb
+C:\Users\Elvis\Documents\VSFIUNEW\RetroRailways\RetroRailways\bin\Debug\RetroRailways.xml
+C:\Users\Elvis\Documents\VSFIUNEW\RetroRailways\RetroRailways\obj\Debug\RetroRailways.vbprojAssemblyReference.cache
+C:\Users\Elvis\Documents\VSFIUNEW\RetroRailways\RetroRailways\obj\Debug\RetroRailways.frmMain.resources
+C:\Users\Elvis\Documents\VSFIUNEW\RetroRailways\RetroRailways\obj\Debug\RetroRailways.Resources.resources
+C:\Users\Elvis\Documents\VSFIUNEW\RetroRailways\RetroRailways\obj\Debug\RetroRailways.vbproj.GenerateResource.cache
+C:\Users\Elvis\Documents\VSFIUNEW\RetroRailways\RetroRailways\obj\Debug\RetroRailways.vbproj.CoreCompileInputs.cache
+C:\Users\Elvis\Documents\VSFIUNEW\RetroRailways\RetroRailways\obj\Debug\RetroRailways.exe
+C:\Users\Elvis\Documents\VSFIUNEW\RetroRailways\RetroRailways\obj\Debug\RetroRailways.xml
+C:\Users\Elvis\Documents\VSFIUNEW\RetroRailways\RetroRailways\obj\Debug\RetroRailways.pdb
+C:\Users\Elvis\Documents\VSFIUNEW\RetroRailways\RetroRailways\obj\Debug\RetroRailways.frmTicket.resources
